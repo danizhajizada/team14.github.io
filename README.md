@@ -14,3 +14,9 @@
 
 ### Implementation:
 [Link](URL)
+
+### Executable JAR:
+[Link](URL)
+
+### Version Control Repository:
+[Link](https://github.com/danizhajizada/team14-main)

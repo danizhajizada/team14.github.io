@@ -1,68 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Team14 Group Project (ENG1)</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        .container {
-            margin: auto;
-            width: 80%;
-        }
-        .row {
-            margin-bottom: 20px;
-        }
-        .title {
-            font-weight: bold;
-        }
-        .content {
-            margin-top: 5px;
-        }
-        .main-title {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .main-title h1 {
-            margin: 0;
-            font-size: 24px;
-        }
-        .main-title h2 {
-            margin: 10px 0 30px;
-            font-size: 20px;
-            font-weight: normal;
-        }
-    </style>
-</head>
-<body>
-    <div class="main-title">
-        <h1>team14.github.io</h1>
-        <h2>Group Project (ENG1)</h2>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="title">Requirements:</div>
-            <div class="content">[Link]</div>
-        </div>
-        <div class="row">
-            <div class="title">Architecture:</div>
-            <div class="content">[Link]</div>
-        </div>
-        <div class="row">
-            <div class="title">Method Selection and Planning:</div>
-            <div class="content">[Link]</div>
-        </div>
-        <div class="row">
-            <div class="title">Risk assessment and mitigation:</div>
-            <div class="content">[Link]</div>
-        </div>
-        <div class="row">
-            <div class="title">Implementation:</div>
-            <div class="content">[Link]</div>
-        </div>
-    </div>
-</body>
-</html>
+# team14.github.io
+## Group Project (ENG1)
+
+### Requirements:
+[Link](URL)
+
+### Architecture:
+[Link](URL)
+
+### Method Selection and Planning:
+[Link](URL)
+
+### Risk assessment and mitigation:
+[Link](URL)
+
+### Implementation:
+[Link](URL)

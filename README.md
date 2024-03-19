@@ -1,7 +1,7 @@
 ## Group Project (ENG1)
 
 ### Requirements:
-[Link](https://docs.google.com/document/d/1duPm0nf4Lg-xC1ppYQTepgfuCTk6syUQUDkfKu_Xgh8/edit#heading=h.tgjht6ze5sgi)
+[Link](file:///C:/Users/hajiz/Downloads/Requirements.pdf)
 
 ### Architecture:
 [Link](URL)

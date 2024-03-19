@@ -34,7 +34,7 @@
 ![Alt text]()
 
 # Risk assessment and mitigation:
-[Link](URL)
+[Link](Risk1.pdf)
 
 # Implementation:
 [Link](URL)

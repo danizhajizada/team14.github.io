@@ -1,7 +1,7 @@
 ## Group Project (ENG1)
 
 # Requirements:
-[Link](Requirements.pdf)
+[Link](Req1.pdf)
 
 # Architecture:
 [Link](URL)

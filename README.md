@@ -31,7 +31,7 @@
 ### Week 5 - (G5)
 ![Alt text](images/g5.png)
 ### Week 6 - (G6)
-![Alt text]()
+![Alt text](images/g6.png)
 
 # Risk assessment and mitigation:
 [Link](Risk1.pdf)
